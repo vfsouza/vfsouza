@@ -7,12 +7,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning .NET with the bootcamp [LocalizaLabs .NET Developer #2](https://web.dio.me/track/localiza-net-developer-2?tab=path) at Digital Inovation One platform. 
 
 #
+
 <br>
+
 <div align="center">
   <a href="https://github.com/vfsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vfsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfsouza&layout=compact&langs_count=7&theme=dracula&hide_border=true&"/>
 </div>
+  
 <div align="center"><br>
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
