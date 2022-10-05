@@ -2,9 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🎓 I\`m on the third period of my Computer Science degree.
-- ✏️ Some of the projects I\`ve been working on are my website, developed with React and .NET, and a factory building game with Unity.
-- 🌱 I’m currently learning .NET with the bootcamp [LocalizaLabs .NET Developer #2](https://web.dio.me/track/localiza-net-developer-2?tab=path) at Digital Inovation One platform. 
+- 🎓 I\`m on the forth period of my Computer Science degree.
+- ✏️ Some of the projects I\`ve been working on are my portfolio website, developed with Vue and Java Servlets. 
 
 #
 
