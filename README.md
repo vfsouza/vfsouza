@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🎓 I\`m on the forth period of my Computer Science degree.
-- ✏️ Some of the projects I\`ve been working on are my portfolio website, developed with Vue and Java Servlets. 
+- 🎓 I\'m on the sixth period of my Computer Science degree.
+- ✏️ A project I am currently working on is the new version of my ToDoList application, which was previously made using a console application in C#. Now, the project is being developed using WPF with the MVVM pattern and a local SQLite database.
 
 #
 
