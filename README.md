@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🎓 I\'m on the sixth period of my Computer Science degree.
-- ✏️ A project I am currently working on is the new version of my ToDoList application, which was previously made using a console application in C#. Now, the project is being developed using WPF with the MVVM pattern and a local SQLite database.
+- 🎓 I have a bachelor\'s degree on Computer Science.
+- ✏️ I\'m working on different approaches of my [article](https://sol.sbc.org.br/index.php/sbcas/article/view/42795) and on a game project called Rubikon.
 
 #
 
